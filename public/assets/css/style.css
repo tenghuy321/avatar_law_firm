@@ -39,7 +39,6 @@
 
 /* bar */
 .about_bar ul li.active a .icon svg {
-    /* transform: rotate(360deg); */
     transform: translateY(-24px) rotate(360deg);
     width: 38px;
     height: 38px;
@@ -58,7 +57,6 @@
     opacity: 1;
 }
 .about_bar ul li:not(.active):hover a .icon svg {
-    /* transform: rotate(360deg); */
     transform: translateY(-4px);
     width: 25px;
     height: 25px;
@@ -123,7 +121,6 @@
     opacity: 0.5;
 }
 
-
 /* gallery */
 .gallery {
     margin: 0;
@@ -156,6 +153,20 @@
     }
 }
 
+/* History */
+.firm_title{
+    position: relative;
+}
+.firm_title::before{
+    position: absolute;
+    bottom: 8px;
+    left: 75px;
+    content: "";
+    width: 270px;
+    height: 2px;
+    background: #fff;
+}
+
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
     .nav_item a::before {
         width: 200px;
@@ -173,7 +184,7 @@
         background-color: #ffffff;
     }
     .about_bar ul li.active a .icon svg {
-        transform: translateY(-24px);
+        transform: translateY(-24px) rotate(360deg);
         width: 38px;
         height: 38px;
         color: #67deff !important;
@@ -191,6 +202,16 @@
         color: #1F387E !important;
         opacity: 1;
     }
+    .firm_title::before{
+        position: absolute;
+        bottom: 8px;
+        left: 75px;
+        content: "";
+        width: 200px;
+        height: 2px;
+        background: #fff;
+    }
+
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
@@ -210,7 +231,7 @@
         background-color: #ffffff;
     }
     .about_bar ul li.active a .icon svg {
-        transform: translateY(-24px);
+        transform: translateY(-24px) rotate(360deg);
         width: 38px;
         height: 38px;
         color: #67deff !important;
@@ -226,6 +247,15 @@
         font-weight: 700;
         color: #1F387E !important;
         opacity: 1;
+    }
+    .firm_title::before{
+        position: absolute;
+        bottom: 8px;
+        left: 75px;
+        content: "";
+        width: 200px;
+        height: 2px;
+        background: #fff;
     }
 }
 
@@ -247,7 +277,7 @@
     }
 
     .about_bar ul li.active a .icon svg {
-        transform: translateY(-26px);
+        transform: translateY(-26px) rotate(360deg);
         width: 30px;
         height: 30px;
         color: #67deff !important;
@@ -310,7 +340,7 @@
 
 
     .about_bar ul li.active a .icon svg {
-        transform: translateY(-24px);
+        transform: translateY(-24px) rotate(360deg);
         width: 30px;
         height: 30px;
         color: #67deff !important;
@@ -328,7 +358,7 @@
     }
 
     .about_bar ul li:not(.active):hover a .text {
-        transform: translateY(0px);
+        transform: translateY(13px);
         font-weight: 700;
         color: #1F387E !important;
         opacity: 1;
@@ -369,6 +399,16 @@
         position: relative;
         -webkit-mask: linear-gradient(180deg, transparent, white 20%, white 80%, transparent);
         mask: linear-gradient(0, transparent, white 20%, white 80%, transparent);
+    }
+
+    .firm_title::before{
+        position: absolute;
+        bottom: 8px;
+        left: 75px;
+        content: "";
+        width: 200px;
+        height: 2px;
+        background: #fff;
     }
 }
 

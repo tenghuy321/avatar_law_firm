@@ -9,79 +9,56 @@
                     <div class="grid grid-cols-2 gap-4">
                         <div class="grid gap-4">
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_4.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-1.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_8.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-2.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_7.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-3.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_5.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-4.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_1.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-5.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_6.jpg') }}"
-                                    alt="">
-                            </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_9.jpg') }}"
-                                    alt="">
-                            </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_3.jpg') }}"
-                                    alt="">
-                            </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_2.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-6.jpg') }}"
                                     alt="">
                             </div>
                         </div>
                         <div class="grid gap-4">
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_5.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-7.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_2.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-8.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_3.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-9.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_9.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-10.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_4.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-11.jpg') }}"
                                     alt="">
                             </div>
                             <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_1.jpg') }}"
+                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/gallery/gallery-12.jpg') }}"
                                     alt="">
                             </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_6.jpg') }}"
-                                    alt="">
-                            </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_7.jpg') }}"
-                                    alt="">
-                            </div>
-                            <div>
-                                <img class="h-auto max-w-full rounded-lg" src="{{ asset('/assets/img/person/person_8.jpg') }}"
-                                    alt="">
-                            </div>
+
                         </div>
                     </div>
                 </div>

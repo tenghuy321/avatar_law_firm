@@ -8,6 +8,7 @@ use App\Http\Controllers\ContactController;
 use App\Http\Controllers\GalleryController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\OurPeopleController;
+use App\Http\Controllers\readMoreController;
 use App\Http\Controllers\ServiceController;
 use App\Http\Controllers\whyUsController;
 use Illuminate\Foundation\Console\AboutCommand;

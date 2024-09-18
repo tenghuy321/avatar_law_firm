@@ -71,28 +71,29 @@
                 </div>
             </div>
 
+            {{-- labtop --}}
             <div class="max-w-screen-xl mx-auto px-10">
                 <div class="grid grid-cols-2 md:hidden gap-12 mt-20 service_group">
                     {{-- row 1 --}}
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Mr. Man Sofiyan</p>
                             <p class="">Position</p>
                         </div>
                         <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                     </div>
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
-                            <p class="mt-3 font-[700]">Ms. Phan sina</p>
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
+                            <p class="mt-3 font-[700]">Ms. Phan Sina</p>
                             <p class="">Position</p>
                         </div>
                         <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                     </div>
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Ms. Heang Chankagnnha</p>
                             <p class="">Position</p>
                         </div>
@@ -101,24 +102,24 @@
                     </div>
                     {{-- row 2 --}}
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Mrs. Uot Heang</p>
                             <p class="">Position</p>
                         </div>
                         <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                     </div>
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Mrs. San Chanmouy</p>
                             <p class="">Position</p>
                         </div>
                         <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                     </div>
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Mr. Ngoun So Sok Heang</p>
                             <p class="">Position</p>
                         </div>
@@ -126,8 +127,8 @@
                     </div>
                     {{-- row 3 --}}
                     <div class="service_img">
-                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                        <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                        <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                             <p class="mt-3 font-[700]">Mr. Mao Sovanden</p>
                             <p class="">Position</p>
                         </div>
@@ -136,6 +137,7 @@
                 </div>
             </div>
 
+            {{-- Contact mobile --}}
             <div class="flex justify-center items-center mt-20 md:hidden">
                 <div class="bg-[#20305B] bg-opacity-50 p-6 mx-0 rounded-lg shadow-lg max-w-lg w-full">
                     <!-- Image -->
@@ -171,28 +173,29 @@
             </div>
         </div>
 
+        {{-- labtop --}}
         <div class="max-w-screen-xl mx-auto relative sm:top-[1200px] md:top-[1000px] lg:top-[1050px] xl:top-[1000px] px-10">
             <div class="hidden md:grid md:grid-cols-3 lg:grid-cols-4 gap-12 mt-10 service_group">
                 {{-- row 1 --}}
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" data-aos="zoom-in" data-aos-duration="1000" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="1000">
                         <p class="mt-3 font-[700]">Mr. Man Sofiyan</p>
                         <p class="">Position</p>
                     </div>
                     <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                 </div>
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
-                        <p class="mt-3 font-[700]">Ms. Phan sina</p>
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="2000"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="2000">
+                        <p class="mt-3 font-[700]">Ms. Phan Sina</p>
                         <p class="">Position</p>
                     </div>
                     <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                 </div>
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="2500"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="2500">
                         <p class="mt-3 font-[700]">Ms. Heang Chankagnnha</p>
                         <p class="">Position</p>
                     </div>
@@ -201,24 +204,24 @@
                 </div>
                 {{-- row 2 --}}
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="3000"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="3000">
                         <p class="mt-3 font-[700]">Mrs. Uot Heang</p>
                         <p class="">Position</p>
                     </div>
                     <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                 </div>
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="3000"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="3000">
                         <p class="mt-3 font-[700]">Mrs. San Chanmouy</p>
                         <p class="">Position</p>
                     </div>
                     <hr class="h-[2px] my-2" style="border-top-width: 2px;">
                 </div>
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="3000"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="3000">
                         <p class="mt-3 font-[700]">Mr. Ngoun So Sok Heang</p>
                         <p class="">Position</p>
                     </div>
@@ -226,8 +229,8 @@
                 </div>
                 {{-- row 3 --}}
                 <div class="service_img">
-                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full"/>
-                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]">
+                    <img src="{{ asset('assets/img/ourpeople/people-5.png') }}" alt="" class="w-[40px] h-[40px] sm:w-[50px] sm:h-[50px] xl:w-[100px] xl:h-[100px] border-2 border-[#ffffff] rounded-full" data-aos="zoom-in" data-aos-duration="3000"/>
+                    <div class="h-[70px] sm:h-[80px] md:h-[60px] text-[14px] sm:text-[16px] xl:text-[20px] text-[#ffffff]" data-aos="zoom-in" data-aos-duration="3000">
                         <p class="mt-3 font-[700]">Mr. Mao Sovanden</p>
                         <p class="">Position</p>
                     </div>
@@ -236,6 +239,7 @@
             </div>
         </div>
 
+        {{-- Contact labtop --}}
         <div class="hidden md:block">
             <div class="flex items-center justify-center min-h-screen p-4 relative md:top-[1000px] lg:top-[1100px] xl:top-[900px] 2xl:top-[970px]">
                 <div class="flex flex-col md:flex-row bg-[#20305B] bg-opacity-50 shadow-lg rounded-lg overflow-hidden max-w-4xl w-full">
