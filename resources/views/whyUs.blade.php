@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="w-full hidden sm:block h-[1200px] sm:h-[1000px] 2xl:h-[940px] bg-cover bg-center" style="background-image: url('assets/img/about/about-mission-bg.png')">
+    <div class="w-full hidden sm:block h-[1200px] sm:h-[1050px] 2xl:h-[940px] bg-cover bg-center" style="background-image: url('assets/img/about/about-mission-bg.png')">
         <div class="absolute right-[20px] h-[48px] sm:right-[70px] md:right-[150px] lg:right-[80px] lg:top-[135px] xl:right-[80px] top-[130px] sm:top-[140px] md:top-[144px] xl:top-[134px] 2xl:right-[192px] 2xl:top-[130px] text-white">
             <div class="w-[370px] sm:w-[500px] xl:w-[691px] leading-[20px]" data-aos="fade-up" data-aos-duration="800">
                 <h3 class="text-[17px] font-[700] text-[#67DEFF]">Experienced Legal Team</h3>
@@ -79,7 +79,7 @@
         </div>
     </div>
 
-    <div class="w-full h-[1300px] sm:hidden bg-cover bg-center" style="background-image: url('assets/img/Avatar-Law-Firm-BG-2.png')">
+    <div class="w-full h-[1350px] sm:hidden bg-cover bg-center" style="background-image: url('assets/img/Avatar-Law-Firm-BG-2.png')">
         <div class="absolute px-7 h-[48px] sm:right-[70px] md:right-[150px] lg:right-[80px] lg:top-[135px] xl:right-[80px] top-[130px] sm:top-[140px] md:top-[204px] xl:top-[134px] 2xl:right-[192px] 2xl:top-[130px] text-white text-center">
             <div class="w-full leading-[20px]">
                 <p class="text-[20px] text-[#67DEFF]">01</p>

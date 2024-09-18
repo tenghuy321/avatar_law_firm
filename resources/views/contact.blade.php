@@ -125,58 +125,22 @@
 
             <div class="text-[11px] sm:text-[12px] md:text-[13px] lg:text-[15px] mt-8" data-aos="zoom-in" data-aos-duration="2000">
                 <p class="font-[700] tracking-[1px]">Office and Emergency Contact</p>
-                <div class="mt-5 font-[300] tracking-[1px]">
-                    <p class="">Mr. NGUON SO SOK HEANG</p>
-                    <a href="#" class="flex items-center">
-                        <svg width="17" height="17" viewBox="0 0 17 17" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <g clip-path="url(#clip0_9_6160)">
-                                <path
-                                    d="M8.5 17C13.1944 17 17 13.1944 17 8.5C17 3.80558 13.1944 0 8.5 0C3.80558 0 0 3.80558 0 8.5C0 13.1944 3.80558 17 8.5 17Z"
-                                    fill="#039BE5" />
-                                <path
-                                    d="M3.88928 8.31583L12.0847 5.15596C12.4651 5.01854 12.7973 5.24875 12.674 5.82392L12.6747 5.82321L11.2793 12.3973C11.1759 12.8633 10.8989 12.9767 10.5115 12.7571L8.38649 11.191L7.36153 12.1784C7.24819 12.2917 7.15257 12.3873 6.93299 12.3873L7.08386 10.2248L11.0222 6.66684C11.1936 6.51596 10.9839 6.43096 10.758 6.58113L5.89103 9.64538L3.79294 8.99088C3.33749 8.84638 3.32757 8.53542 3.88928 8.31583Z"
-                                    fill="white" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_9_6160">
-                                    <rect width="17" height="17" fill="white" />
-                                </clipPath>
-                            </defs>
-                        </svg>
-
-                        <span class="ml-2">+855 17 600 499</span>
-                    </a>
-                </div>
-
-                <div class="mt-5 font-[300] tracking-[1px]">
-                    <p class="">Mr. HORM PHANNAK</p>
-                    <a href="#" class="flex items-center">
-                        <svg width="17" height="17" viewBox="0 0 17 17" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <g clip-path="url(#clip0_9_6160)">
-                                <path
-                                    d="M8.5 17C13.1944 17 17 13.1944 17 8.5C17 3.80558 13.1944 0 8.5 0C3.80558 0 0 3.80558 0 8.5C0 13.1944 3.80558 17 8.5 17Z"
-                                    fill="#039BE5" />
-                                <path
-                                    d="M3.88928 8.31583L12.0847 5.15596C12.4651 5.01854 12.7973 5.24875 12.674 5.82392L12.6747 5.82321L11.2793 12.3973C11.1759 12.8633 10.8989 12.9767 10.5115 12.7571L8.38649 11.191L7.36153 12.1784C7.24819 12.2917 7.15257 12.3873 6.93299 12.3873L7.08386 10.2248L11.0222 6.66684C11.1936 6.51596 10.9839 6.43096 10.758 6.58113L5.89103 9.64538L3.79294 8.99088C3.33749 8.84638 3.32757 8.53542 3.88928 8.31583Z"
-                                    fill="white" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_9_6160">
-                                    <rect width="17" height="17" fill="white" />
-                                </clipPath>
-                            </defs>
-                        </svg>
-
-                        <span class="ml-2">+855 88 544 4905</span>
-                    </a>
-                </div>
-
                 <div class="mt-5">
                     <p class="font-[700] tracking-[1px]">Operation Contact: H/P</p>
                     <a href="#" class="flex items-center">
-                        <span class="">+855 12 772 771</span>
+                        <svg class="w-6 h-6 text-[#67deff]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"/>
+                        </svg>
+                        <span class="ml-2">+855 12 772 771</span>
+                    </a>
+                </div>
+                <div class="mt-5 font-[300] tracking-[1px]">
+                    <p class="">Mr. NGUON SO SOK HEANG</p>
+                    <a href="#" class="flex items-center">
+                        <svg class="w-6 h-6 text-[#67deff]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"/>
+                        </svg>
+                        <span class="ml-2">+855 17 600 499</span>
                     </a>
                 </div>
             </div>

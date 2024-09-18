@@ -7,22 +7,23 @@
     <div class="">
         <div class="relative hidden lg:flex">
             <div class="flex items-center">
-                <svg class="lg:w-6 lg:h-6 xl:w-9 xl:h-9 text-[#1F387E]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
+                <svg class="w-6 h-6 lg:w-6 lg:h-6 xl:w-9 xl:h-9 text-[#1F387E]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8" d="M12 8v4l3 3m6-3a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                 </svg>
-                <p class="pl-1 lg:text-[16px] xl:text-[18px] font-[700] text-[#1F387E]">Monday-Friday <span class="text-[#67deff] ml-2">8am-5pm</span></p>
+
+                <a href="#" class="pl-1 lg:text-[16px] xl:text-[18px] font-[600] text-[#1F387E]">Monday-Friday <span class="text-[#67deff] ml-2">8am-5pm</span></a>
             </div>
             <div class="flex items-center ml-4">
                 <svg class="lg:w-6 lg:h-6 xl:w-9 xl:h-9 text-[#1F387E]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="m3.5 5.5 7.893 6.036a1 1 0 0 0 1.214 0L20.5 5.5M4 19h16a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
+                    <path stroke="currentColor" stroke-linecap="round" stroke-width="0.8" d="m3.5 5.5 7.893 6.036a1 1 0 0 0 1.214 0L20.5 5.5M4 19h16a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
                   </svg>
-                <p class="pl-1 lg:text-[16px] xl:text-[18px] font-[700] text-[#1F387E]">huy@avatar-gfaf.com.kh</p>
+                <a href="#"class="pl-1 lg:text-[16px] xl:text-[18px] font-[600] text-[#1F387E]">huy@avatar-gfaf.com.kh</a>
             </div>
             <div class="flex items-center ml-4">
-                <svg class="lg:w-6 lg:h-6 xl:w-9 xl:h-9 text-[#1F387E] dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"/>
+                <svg class="w-6 h-6 lg:w-6 lg:h-6 xl:w-9 xl:h-9 text-[#1F387E]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8" d="M18.427 14.768 17.2 13.542a1.733 1.733 0 0 0-2.45 0l-.613.613a1.732 1.732 0 0 1-2.45 0l-1.838-1.84a1.735 1.735 0 0 1 0-2.452l.612-.613a1.735 1.735 0 0 0 0-2.452L9.237 5.572a1.6 1.6 0 0 0-2.45 0c-3.223 3.2-1.702 6.896 1.519 10.117 3.22 3.221 6.914 4.745 10.12 1.535a1.601 1.601 0 0 0 0-2.456Z"/>
                 </svg>
-                <p class="pl-1 lg:text-[16px] xl:text-[18px] font-[700] text-[#1F387E]">+855 (0) 12 772 771</p>
+                <a href="#" class="pl-1 lg:text-[16px] xl:text-[18px] font-[600] text-[#1F387E]">+855 (0) 12 772 771</a>
             </div>
         </div>
 
@@ -36,12 +37,13 @@
                 </button>
             </div>
             <div id="drawer-navigation"
-                class="fixed top-0 left-0 z-40 h-screen p-4 overflow-y-auto transition-transform -translate-x-full bg-[#1F387E] w-[300px] sm:w-[340px] md:w-[400px] duration-1000"
+                class="fixed top-0 left-0 z-40 pt-3 h-screen p-4 overflow-y-auto bg-[#ffffff] transition-transform -translate-x-full w-[300px] sm:w-[340px] md:w-[400px] duration-1000"
                 tabindex="-1" aria-labelledby="drawer-navigation-label">
                 <h5 id="drawer-navigation-label" class="text-base font-semibold text-gray-500 uppercase mt-1">
-                    Menu</h5>
+                    <img src="{{ url('assets/img/logo.png') }}" alt="">
+                </h5>
                 <button type="button" data-drawer-hide="drawer-navigation" aria-controls="drawer-navigation"
-                    class="text-gray-200 bg-transparent hover:text-gray-900 rounded-lg text-sm w-8 h-8 mt-1 absolute top-2.5 end-2.5 inline-flex items-center justify-center dark:hover:bg-gray-600 dark:hover:text-white">
+                    class="text-gray-900 bg-transparent hover:text-gray-900 rounded-lg text-sm w-8 h-8 mt-1 pt-3 absolute top-2.5 end-2.5 inline-flex items-center justify-center dark:hover:bg-gray-600 dark:hover:text-white">
                     <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
                         viewBox="0 0 14 14">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -49,7 +51,7 @@
                     </svg>
                     <span class="sr-only">Close menu</span>
                 </button>
-                <div class="py-4 overflow-y-auto mt-8 sm:ml-4 md:ml-10 text-[18px] sm:text-[19px] md:text-[20px]">
+                <div class="py-4 overflow-y-auto mt-6 sm:ml-4 md:ml-10 text-[18px] sm:text-[19px] md:text-[20px]">
                     <ul class="nav_list">
                         <li class="nav_item flex items-center px-7 mt-7  {{ Route::is('home') ? 'active' : '' }} ">
                             <a href="{{ route('home') }}" id="home"

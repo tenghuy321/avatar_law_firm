@@ -19,11 +19,15 @@
 .nav_item.active {
     width: 360px;
     background: linear-gradient(90deg, #67DEFF 10.33%, rgba(31, 56, 126, 0.6) 61.33%);
-    color: #ffffff;
+    color: #000;
     font-weight: 700;
     text-align: left;
     border-radius: 30px;
     transition: all 0.5s;
+}
+
+.nav_item:hover:not(.active) {
+    font-size: 32px;
 }
 
 /* mobile navbar */
